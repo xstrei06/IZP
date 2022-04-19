@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/IZP_projekt.dir/pwcheck.c.o -o IZP_projekt 

@@ -1,0 +1,3 @@
+/mnt/d/IT_stuff/CLion 2021.2.3/IZP_projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/IT_stuff/CLion 2021.2.3/IZP_projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/IT_stuff/CLion 2021.2.3/IZP_projekt/cmake-build-debug/CMakeFiles/IZP_projekt.dir
